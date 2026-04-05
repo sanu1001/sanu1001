@@ -1,74 +1,117 @@
-<h1 align="center">Hi 👋, I'm Sanu Mukherjee</h1>
-<h3 align="center">A passionate frontend & application developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu1001&label=Profile%20views&color=0e75b6&style=flat" alt="sanu1001" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D44C0&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-- 🔭 I’m currently working on **App Development**
+# Sanu Mukherjee
+### Full Stack Developer · Flutter Lead @ GDG Campus · IIIT Kalyani
 
-- 🌱 I’m currently learning **Backend Development**
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanumukherjee.vercel.app-D66FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sanumukherjee.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-mukherjee-9085a227b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sanu__mukherjee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sanu_mukherjee)
+[![Gmail](https://img.shields.io/badge/Gmail-sanumukhopadhyay123-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanumukhopadhyay123@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://sanu1001.github.io/My-Repository/](https://sanu1001.github.io/My-Repository/)
+<img src="https://komarev.com/ghpvc/?username=sanu1001&label=Profile+Views&color=9D44C0&style=flat-square" alt="profile views"/>
 
-- 💬 Ask me about **Flutter, Python, JavaScript, C++**
+</div>
 
-- 📫 How to reach me **sanumukhopadhyay123@gmail.com**
+---
 
-- 📄 Know about my experiences [https://sanu1001.github.io/My-Repository/](https://sanu1001.github.io/My-Repository/)
+## 👋 About Me
 
-- ⚡ Fun fact **As a Flutter app developer, I’ve spent more time wondering why Android Studio is acting up than actually writing code.**
+```go
+package main
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sanu-mukherjee-9085a227b/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sanu.mukherjee.98434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/mukherjee__sanu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_igris_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanu_mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+type Developer struct {
+    Name       string
+    College    string
+    Role       string
+    Currently  []string
+    Building   []string
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-</p>
+func main() {
+    me := Developer{
+        Name:    "Sanu Mukherjee",
+        College: "IIIT Kalyani — CSE, 3rd Year",
+        Role:    "Full Stack Developer",
+        Currently: []string{
+            "Flutter Lead @ GDG Campus IIIT Kalyani",
+            "Building production-grade mobile + backend systems",
+            "Grinding DSA on LeetCode",
+        },
+        Building: []string{
+            "KhataDost — Flutter + Go digital credit ledger for kirana shops",
+            "PingMate  — Developer-first scheduled reminder REST API in Go",
+        },
+    }
+    _ = me
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanu1001&show_icons=true&locale=en&layout=compact" alt="sanu1001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanu1001&show_icons=true&locale=en" alt="sanu1001" /></p>
+## 🛠️ Tech Stack
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logo=hive&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Other**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**KhataDost**](https://github.com/sanu1001/khatadost) | Full-stack digital credit ledger for Indian kirana shopkeepers | Flutter · BLoC · Go · PostgreSQL · Docker |
+| [**PingMate**](https://github.com/sanu1001/pingmate) *(in dev)* | Developer-first scheduled reminder REST API with JWT auth & Redis | Go · Gin · PostgreSQL · Redis · Docker |
+| [**ShopEZ**](https://github.com/sanu1001/ShopEZ) | Hackathon project — AI-powered shop management Flutter app | Flutter · Dart · Supabase · AI/ML |
+| [**Finkie**](https://razerxp.github.io/Finkie/) | Web-scraped finance news aggregator | HTML · CSS · JS · Python |
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **First Prize** — Status Code 1 Hackathon, Open Innovation Track
+- 🏅 **Best Freshers Team** — Rebase01 Hackathon
+- 📱 **Flutter Lead** — GDG Campus, IIIT Kalyani
+- 🎓 **JEE Mains 2023** — 97.1 Percentile
+- 💼 Freelance production Flutter app *(NDA)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sanu1001&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=D66FFF&icon_color=9D44C0&text_color=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanu1001&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=D66FFF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D44C0&height=80&section=footer" width="100%"/>
+
+</div>
