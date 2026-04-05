@@ -5,7 +5,7 @@
 # Sanu Mukherjee
 ### Full Stack Developer · Flutter Lead @ GDG Campus · IIIT Kalyani
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanumukherjee.vercel.app-D66FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sanumukherjee.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanumukherjee.vercel.app-D66FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sanu-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-mukherjee-9085a227b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sanu__mukherjee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sanu_mukherjee)
 [![Gmail](https://img.shields.io/badge/Gmail-sanumukhopadhyay123-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanumukhopadhyay123@gmail.com)
